@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Redux Tutorial
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+See: https://medium.com/analytics-vidhya/lets-use-redux-in-react-7d7cb066e7c5
 
 ## Available Scripts
 
