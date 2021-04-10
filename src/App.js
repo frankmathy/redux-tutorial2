@@ -8,7 +8,7 @@ import Form from 'react-bootstrap/Form';
 import { update, remove } from './actions/userActions';
 
 function App() {
-  const user = useSelector(state => state);
+  const user = useSelector(state => state.userInfo);
   const dispatch = useDispatch();
   const [name, setName] = useState(user.name);
   const [age, setAge] = useState(user.age);
